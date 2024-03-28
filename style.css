@@ -1,0 +1,40 @@
+#display {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    width: 100vw; 
+}
+
+.inner-text {
+    display: flex;
+    flex-direction: column;
+    background-color: #F8F4EA;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+}
+
+#btn {
+    font-size: 16px;
+    padding: 10px 15px;
+    color: white;
+    background-color: #AE3131;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 10px;
+}
+
+#hex {
+    font-size: 20px;
+    text-transform: uppercase;
+    display: none;
+}
+
+
+#h2 {
+    text-transform: uppercase;
+    font-weight: lighter;
+    font-size: 22px;
+}
