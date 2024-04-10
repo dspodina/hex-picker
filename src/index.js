@@ -17,6 +17,12 @@ dom.btn.addEventListener("click", () => {
     const color = getRandomColor(); 
     document.body.style.backgroundColor = color;
     dom.header.innerText = `HEX color: ${color}`;
+    dom.copyIcon.style.display = "block"
 });
   
+dom.copyIcon.addEventListener("click", () => {
+  
+});
+
+
 
