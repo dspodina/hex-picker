@@ -17,15 +17,6 @@ To use the application:
 3. Click the "Generate Color" button to generate a new random color.
 4. Observe the background color change and the displayed HEX color code.
 
-## File Structure
-
-The project follows a simple file structure:
-
-- `index.html`: Contains the HTML structure of the web page.
-- `styles.css`: Contains the CSS styles for the page layout and button design.
-- `index.js`: Contains the JavaScript code for generating random colors and handling button clicks.
-- `README.md`: Provides information about the project and how to use it.
-
 ## Development
 
 To make changes or contribute to the project:
